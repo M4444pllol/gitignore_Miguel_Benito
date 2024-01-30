@@ -1,0 +1,9 @@
+ArchiboBinarioEnorme
+ArchiboBinarioPesadisimo
+ArchiboBinarioPesado
+
+config.json
+
+**/node_modules/
+
+**/*.class
